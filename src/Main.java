@@ -2,7 +2,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello and welcome!");
+        System.out.println("Testing101");
 
 
         for (int i = 1; i <= 5; i++) {
